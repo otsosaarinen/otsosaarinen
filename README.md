@@ -2,7 +2,7 @@
 
 **About me**
 
-I'm a 4th-year ICT engineering student & currently I'm working on my thesis on the topic: _Real-time patient data collection and analysis using the Apache Kafka platform_
+4th-year ICT Engineering student at Turku University of Applied Sciences, specializing in Health Technology. 
 
 ### Skills
 **Frontend**\
