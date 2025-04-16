@@ -1,8 +1,7 @@
 ## Hi 👋
 
 **About me**
-
-4th-year ICT Engineering student at Turku University of Applied Sciences, specializing in Health Technology. 
+I'm a recently graduated ICT engineer from Turku UAS, passionate about technology and motivated to start my career in IT.
 
 ### Skills
 **Frontend**\
