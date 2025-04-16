@@ -1,6 +1,7 @@
 ## Hi 👋
 
 **About me**
+
 I'm a recently graduated ICT engineer from Turku UAS, passionate about technology and motivated to start my career in IT.
 
 ### Skills
