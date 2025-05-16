@@ -2,7 +2,7 @@
 
 **About me**
 
-I'm a recently graduated ICT engineer from Turku UAS, passionate about technology and motivated to start my career in IT industry. I'm very interested about web development & health technology.
+I'm an ICT engineer from Turku, passionate about technology and motivated to start my career in IT industry. I'm very interested about web development, integrations & health technology.
 
 ### Skills
 **Frontend**\
