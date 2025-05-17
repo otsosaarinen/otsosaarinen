@@ -2,11 +2,11 @@
 
 ### About me
 
-I'm an ICT engineer from Turku, passionate about technology and motivated to start my career in IT industry. I'm very interested in web development, integrations & health technology.
+I'm a software developer from Turku, Finland. I'm very interested in web development, integrations & health technology.
 
 ### Education 
-** Bachelor of Engineering, Information and Communications Technology**
-Turku University of Applied Sciences, Turku, Finland
+**Bachelor of Engineering, Information and Communications Technology**  
+Turku University of Applied Sciences, Turku, Finland  
 2025
 
 ### Skills
