@@ -1,8 +1,13 @@
 ## Hi 👋
 
-**About me**
+### About me
 
-I'm an ICT engineer from Turku, passionate about technology and motivated to start my career in IT industry. I'm very interested about web development, integrations & health technology.
+I'm an ICT engineer from Turku, passionate about technology and motivated to start my career in IT industry. I'm very interested in web development, integrations & health technology.
+
+### Education 
+** Bachelor of Engineering, Information and Communications Technology**
+Turku University of Applied Sciences, Turku, Finland
+2025
 
 ### Skills
 **Frontend**\
@@ -23,8 +28,8 @@ I'm an ICT engineer from Turku, passionate about technology and motivated to sta
 
 **Databases**\
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Cloud & Infrastructure**\
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -37,7 +42,7 @@ I'm an ICT engineer from Turku, passionate about technology and motivated to sta
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-**Stats**
+### Stats
 
 ![Otso Saarinen's Stats](https://github-readme-stats.vercel.app/api?username=otsosaarinen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Otso Saarinen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otsosaarinen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
