@@ -1,5 +1,3 @@
-## Hi 👋
-
 ### About me
 
 I'm an ICT engineer from Turku, Finland. I'm very interested in web development, integrations & health technology.
