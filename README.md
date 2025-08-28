@@ -1,6 +1,6 @@
 ### About me
 
-I'm an ICT engineer from Turku, Finland. I'm very interested in web development, integrations & health technology. My main interests are web development, integrations & health technology. I've been programming since 2021 and I'm most proficient in TypeScript & Python.
+ICT engineer from Turku, Finland. Interested in web development, integrations & health technology.
 
 ### Education 
 **Bachelor of Engineering, Information and Communications Technology**  
