@@ -1,6 +1,6 @@
 ### About me
 
-ICT engineer from Turku, Finland. Interested in web development, integrations & health technology.
+ICT engineer from Turku, Finland. Interested in web & software development, integrations & health technology.
 
 ### Education 
 **Bachelor of Engineering, Information and Communications Technology**  
